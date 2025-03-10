@@ -90,7 +90,7 @@ fareedkhan-dev-all-rag-techniques/
 
 3.  **Set up your OpenAI API key:**
 
-    *   Obtain an API key from [Nebius AI](https://cloud.nebius.ai/services/llm-embedding).
+    *   Obtain an API key from [Nebius AI](https://studio.nebius.com/).
     *   Set the API key as an environment variable:
         ```bash
         export OPENAI_API_KEY='YOUR_NEBIUS_AI_API_KEY'
