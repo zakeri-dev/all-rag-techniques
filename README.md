@@ -78,8 +78,8 @@ fareedkhan-dev-all-rag-techniques/
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/fareed-khan/fareedkhan-dev-all-rag-techniques.git  # Replace with your repo URL
-    cd fareedkhan-dev-all-rag-techniques
+    git clone https://github.com/FareedKhan-dev/all-rag-techniques.git
+    cd all-rag-techniques
     ```
 
 2.  **Install dependencies:**
