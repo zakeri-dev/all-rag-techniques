@@ -40,6 +40,7 @@ Here's a glimpse of the techniques covered:
 | [18. Hierarchy RAG](18_hierarchy_rag.ipynb)        | Builds hierarchical indices (summaries + detailed chunks) for efficient retrieval.                                                                                   |
 | [19. HyDE RAG](19_HyDE_rag.ipynb)             | Uses Hypothetical Document Embeddings to improve semantic matching.                                                                                              |
 | [20. CRAG](20_crag.ipynb)                     | Corrective RAG: Dynamically evaluates retrieval quality and uses web search as a fallback.                                                                           |
+| [21. Rag with RL](21_rag_with_rl.ipynb)                     | Maximize the reward of the RAG model using Reinforcement Learning.                                                                           |
 
 ## 🗂️ Repository Structure
 
@@ -66,6 +67,7 @@ fareedkhan-dev-all-rag-techniques/
 ├── 18_hierarchy_rag.ipynb
 ├── 19_HyDE_rag.ipynb
 ├── 20_crag.ipynb
+├── 21_rag_with_rl.ipynb
 ├── requirements.txt                   <- Python dependencies
 └── data/
     └── val.json                       <- Sample validation data (queries and answers)
