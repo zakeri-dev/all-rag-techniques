@@ -6,6 +6,10 @@ This repository takes a clear, hands-on approach to **Retrieval-Augmented Genera
 
 The goal is simple: provide code that is readable, modifiable, and educational. By focusing on the fundamentals, this project helps demystify RAG and makes it easier to understand how it really works.
 
+## Update: 📢
+- (20-Mar-2025) Added a new notebook on RAG with Reinforcement Learning.
+- (07-Mar-2025) Added 20 RAG techniques to the repository.
+
 ## 🚀 What's Inside?
 
 This repository contains a collection of Jupyter Notebooks, each focusing on a specific RAG technique.  Each notebook provides:
