@@ -75,7 +75,7 @@ fareedkhan-dev-all-rag-techniques/
 ├── requirements.txt                   <- Python dependencies
 └── data/
     └── val.json                       <- Sample validation data (queries and answers)
-    └── AI_information.pdf             <- A sample PDF document for testing.
+    └── AI_Information.pdf             <- A sample PDF document for testing.
     └── attention_is_all_you_need.pdf  <- A sample PDF document for testing (for Multi-Modal RAG).
 ```
 
@@ -116,7 +116,7 @@ fareedkhan-dev-all-rag-techniques/
 
     Open any of the Jupyter Notebooks (`.ipynb` files) using Jupyter Notebook or JupyterLab.  Each notebook is self-contained and can be run independently.  The notebooks are designed to be executed sequentially within each file.
 
-    **Note:** The `data/AI_information.pdf` file provides a sample document for testing. You can replace it with your own PDF.  The `data/val.json` file contains sample queries and ideal answers for evaluation.
+    **Note:** The `data/AI_Information.pdf` file provides a sample document for testing. You can replace it with your own PDF.  The `data/val.json` file contains sample queries and ideal answers for evaluation.
     The 'attention_is_all_you_need.pdf' is for testing Multi-Modal RAG Notebook.
 
 ## 💡 Core Concepts
