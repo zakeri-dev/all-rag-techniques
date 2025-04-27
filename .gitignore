@@ -1,12 +1,42 @@
-# Ignore Python cache files
+# Environment variables
+.env
+.venv
+env/
+venv/
+
+# Python
 __pycache__/
-*.pyc
-*.pyo
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
 
-# Ignore virtual environments
-.env/
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
 
-# Ignore system files
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
 .DS_Store
 Thumbs.db
 
@@ -17,8 +47,13 @@ Thumbs.db
 
 # Ignore compiled code and dependencies
 node_modules/
-dist/
-build/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore virtual environments
+.env/
 
 # Ignore IDE and editor files
 .vscode/
