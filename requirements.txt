@@ -8,3 +8,6 @@ networkx
 matplotlib
 tqdm
 Pillow
+faiss-cpu
+pandas
+ipywidgets
